@@ -11,7 +11,7 @@ The project is structured to show how an `ExpensiveObject` is only created when 
 ## Project Structure
 
 ```
-lazy_object_initialization_cs/
+lazy-object-initialization-cs/
 ├── Program.cs       // Entry point of the application
 └── Solution.cs      // Contains the ExpensiveObject class and lazy initialization logic
 ```
